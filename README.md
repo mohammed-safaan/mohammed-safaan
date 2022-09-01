@@ -9,6 +9,19 @@
 
 ### 🛠 Technologies & Tools
 
+  Html 5
+  Css3
+  Javascript
+  Bootstrap
+  Jquery
+  Typescript
+  React Js
+  Redux-toolkit
+  MongoDB
+  Angular
+  Node JS
+  Express JS		
+
 ![html5](images/HTML5.png) ![css3](images/CSS3.png) 
 ![javascript](images/JAVASCRIPT.png) 
 ![Git](images/GITV.png)  ![Github](images/GITHUB.png) 
