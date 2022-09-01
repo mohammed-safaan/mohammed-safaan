@@ -21,6 +21,12 @@
   - Angular
   - Node JS
   - Express JS		
+     #### Tools
+  - Git & gitHub
+  - Postman
+  - Figma
+  - Firebase
+  - Stripe
 
 ![html5](images/HTML5.png) ![css3](images/CSS3.png) 
 ![javascript](images/JAVASCRIPT.png) 
