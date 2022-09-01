@@ -1,8 +1,8 @@
 ###   Hi <img src="images/Hi.gif" width="20"> 
 
-- 🔭 I’m a Junior Front End Web Development .
+- 🔭 I’m a Junior Full Stack Web Developer .
 - 🥰 passion for both personal growth and software development.
-- 💻 Develop Front End Interactive Face.
+- 💻 Develop Fullstack Interactive web aplication.
 - 📝 Write Clean And Readable Code.
 - 🎓 Learn New Things Every Day.
 
