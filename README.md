@@ -20,7 +20,8 @@
   - MongoDB
   - Angular
   - Node JS
-  - Express JS		
+  - Express JS	
+  - Testing with jasmine.js
      #### Tools
   - Git & gitHub
   - Postman
