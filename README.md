@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Junior Full Stack Web Developer .
 - 🥰 passion for both personal growth and software development.
-- 💻 Develop Fullstack Interactive web aplication.
+- 💻 Develop Fullstack Interactive web application.
 - 📝 Write Clean And Readable Code.
 - 🎓 Learn New Things Every Day.
 
