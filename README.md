@@ -35,7 +35,7 @@
 
 ### 🤝🏻 Connect with Me
 
-<a href="https://www.linkedin.com/in/mohamed-sabry-024b8a234/">
+<a href="https://www.linkedin.com/in/mohamedsafaan/">
 <img src="images/LINKEDIN.png">
 </a>
 
