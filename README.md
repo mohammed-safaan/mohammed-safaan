@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Full Name] 👋
+# Hi there, I'm [Mohamed] 👋
 
 ## I'm a Full Stack Developer!
 
@@ -51,64 +51,4 @@
 
 - [Interest 1](https://www.example.com)
 - [Interest 2](https://www.example.com)
-
-### Hobbies:
-
-- [Hobby 1](https://www.example.com)
-- [Hobby 2](https://www.example.com)
-
-### Favorite Quotes:
-
-- [Quote 1](https://www.example.com)
-- [Quote 2](https://www.example.com)
-
-
-
-
-
-
-
-
-###   Hi <img src="images/Hi.gif" width="20"> 
-
-- 🔭 I’m a Junior Full Stack Web Developer .
-- 🥰 passion for both personal growth and software development.
-- 💻 Develop Fullstack Interactive web application.
-- 📝 Write Clean And Readable Code.
-- 🎓 Learn New Things Every Day.
-
-
-### 🛠 Technologies & Tools
-
-  - Html 5
-  - Css3
-  - Javascript
-  - Bootstrap
-  - Jquery
-  - Typescript
-  - React Js
-  - Redux-toolkit
-  - MongoDB
-  - Angular
-  - Node JS
-  - Express JS	
-  - Testing with jasmine.js
-     #### Tools
-  - Git & gitHub
-  - Postman
-  - Figma
-  - Firebase
-  - Stripe
-
-![html5](images/HTML5.png) ![css3](images/CSS3.png) 
-![javascript](images/JAVASCRIPT.png) 
-![Git](images/GITV.png)  ![Github](images/GITHUB.png) 
-![VisualStudioCode](images/VISUALSTUDIO.png) ![Atom](images/ATOM.png)
-
-### 🤝🏻 Connect with Me
-
-<a href="https://www.linkedin.com/in/mohamedsafaan/">
-<img src="images/LINKEDIN.png">
-</a>
-
 
