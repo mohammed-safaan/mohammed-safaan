@@ -1,17 +1,8 @@
 
 # Hi there, I'm [Mohamed] 👋
 
-## I'm a Full Stack Developer!
-
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology Name]
-- 👯 I’m looking to collaborate on [Project Name]
-- 🤔 I’m looking for help with [Technology Name]
-- 💬 Ask me about [Technology Name]
-- 📫 How to reach me: [Email Address]
-- 😄 Pronouns: [He/Him/She/Her/They/Them]
-- ⚡ Fun fact: [Fun Fact]
-
+## I'm a Software Engineer!
+<!-- 
 ### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -48,5 +39,5 @@
 - [Project 2](https://github.com/username/project-name)
 
 
-
+-->
 
