@@ -36,6 +36,8 @@
 
 ### Projects:
 
+- [A small HTTP server implementation in C](https://github.com/mohammed-safaan/tiny-http-server-in-c)
+- [A small C implementation of a simple ls-style directory listing tool.](https://github.com/mohammed-safaan/My-Gnu-ls)
 - [A full-stack authentication system built with React and NestJS.](https://github.com/mohammed-safaan/easygenerator-task)
 - [Compact NestJs backend service for Bookmark Management](https://github.com/mohammed-safaan/bookmarks-manger)
 
