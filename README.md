@@ -32,12 +32,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat&logo=stripe)
+-->
 
 ### Projects:
 
-- [Project 1](https://github.com/username/project-name)
-- [Project 2](https://github.com/username/project-name)
+- [A full-stack authentication system built with React and NestJS.](https://github.com/mohammed-safaan/easygenerator-task)
+- [Compact NestJs backend service for Bookmark Management](https://github.com/mohammed-safaan/bookmarks-manger)
 
-
--->
 
